@@ -6,8 +6,7 @@
 
 - 💥 I am also running a Discord server, for Gophers (in spanish as well), [feel free to join](https://discord.io/go-latam)
 
-- 🌱 Here I have lot of unused code but I am working in fuego-cache and tomatto-logger whose are two libraries in Golang, feel free to send
-    any PR or see the issues.
+- 🌱 Here I have lot of unused code but I am working in [fuego-cache](https://github.com/tomiok/fuego-cache) and [tomatto-logger](https://github.com/tomiok/tomatto-logger) which    are two libraries in Golang, feel free to send any PR or see the issues.
 
 - ⚡ Currently writing experimental code for several things, but for my, except from work, everything is public so if any idea cames up, send me a ping
 
