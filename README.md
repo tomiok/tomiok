@@ -1,8 +1,8 @@
 ### Hi there 👋 my name is Tomas and I am from Argentina, happy to see you here.
 
-- 🔭 I’m currently working in Google, mostly with Go and running a (gopher) youtube channel, I am 
+- 🔭 I’m currently working in Google, mostly with Go and running a (gopher) [youtube channel](https://youtube.com/tomaslingotti), I am 
    actively uploading videos with tips, techniques, new frameworks, patterns and so on, all the 
-   content in the channel is in Spanish. Take a look at my [channel](https://youtube.com/tomaslingotti).
+   content in the channel is in Spanish. I am glad to receive feedback or new topics for my videos!.
 
 - 💥 I am also running a Discord server, for Gophers but you can also ask about any engineering issue/topic (in spanish as well), [feel free to join](https://discord.io/go-latam).
 
