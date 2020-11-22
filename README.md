@@ -10,4 +10,6 @@
 
 - ⚡ Currently writing experimental code for several things, but for my, except from work, everything is public so if any idea cames up, send me a ping (you can see gRPC, lot of REST services, CLI apps, etc).
 
-- 📫 How to reach me: tomaslingotti{at}gmail.com
+- 📫 How to reach me: tomaslingotti@gmail.com
+
+- 💻 I am also running a [Discrod server](https://discord.io/go-latam).
