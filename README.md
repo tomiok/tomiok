@@ -4,7 +4,7 @@
    actively uploading videos with tips, techniques, new frameworks, patterns and so on, all the 
    content in the channel is in Spanish. I am glad to receive feedback or new topics for my videos!.
 
-- 💥 I am also running a Discord server, for Gophers but you can also ask about any engineering issue/topic (in spanish as well), [feel free to join](https://discord.io/go-latam).
+- 💥 I am also running a [Discord server](https://discord.io/go-latam), for Gophers but you can also ask about any engineering issue/topic (in spanish as well), feel free to join and take a look to all the discusions, posts, challenges and even job postings!.
 
 - 🌱 Here I have lot of unused code but I am working in [fuego-cache](https://github.com/tomiok/fuego-cache) (a KEY/VALUE superfast cache, with 3 interfaces (cli, tcp and HTTP) and very friendly for any language) and [tomatto-logger](https://github.com/tomiok/tomatto-logger) (a fully std-lib implemented logger) which are two libraries in Golang, feel free to send any PR or see the issues.
 
