@@ -1,5 +1,7 @@
 ### Hi there 👋 my name is Tomas and I am from Argentina, happy to see you here.
 
+- 🚀 Building a new anon-friendly descentralized chat platform. Stay tuned.
+
 - 🔭 I’m currently working in Google, mostly with Go and running a (gopher) [youtube channel](https://youtube.com/tomaslingotti), I am 
    actively uploading videos with tips, techniques, new frameworks, patterns and so on, all the 
    content in the channel is in Spanish. I am glad to receive feedback or new topics for my videos!.
