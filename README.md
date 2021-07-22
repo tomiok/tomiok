@@ -1,7 +1,5 @@
 ### Hi there 👋 my name is Tomas and I am from Argentina, happy to see you here.
 
-- 🚀 Building a new anon-friendly, descentralized, concept-art chat platform. Stay tuned.
-
 - 🚀 Building 2 apps (telegram bot and CLI app) to easily lookup, save and write a review for a movie.
 
 - 🔭 I’m currently working mostly with Go and running a (gopher) [youtube channel](https://youtube.com/tomaslingotti), I am 
