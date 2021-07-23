@@ -1,6 +1,6 @@
 ### Hi there 👋 my name is Tomas and I am from Argentina, happy to see you here.
 
-- 🚀 Building 2 apps (telegram bot and CLI app) to easily lookup, save and write a review for a movie.
+- 🚀 Building 2 apps (telegram, discord bots and CLI app) to easily lookup, save and write a review for a movie. Ping me if you want to contribute.
 
 - 🔭 I’m currently working mostly with Go and running a (gopher) [youtube channel](https://youtube.com/tomaslingotti), I am 
    actively uploading videos with tips, techniques, new frameworks, patterns and so on, all the 
