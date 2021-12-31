@@ -1,6 +1,6 @@
 ### Hi there 👋 my name is Tomas and I am from Argentina, happy to see you here.
 
-- 👾 PRODUCT HUNT NOW (updated at dicember 2021) 👾
+- 👾 PRODUCT HUNT NOW (updated at January 2022) 👾
 
 - 🚀 Building 1 new app to improve the citizens wellbeing, soon will be available.
 
