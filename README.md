@@ -1,6 +1,6 @@
 ### Hi there 👋 my name is Tomas and I am from Argentina, happy to see you here.
 
-- 👾 PRODUCT HUNT NOW (updated at January 2022) 👾
+- 👾 PRODUCT HUNT NOW (updated at February 2022) 👾
 
 - ⚡ Currently writing an IA to boost up your startup (product hunt calling...).
 
