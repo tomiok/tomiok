@@ -2,7 +2,7 @@
 
 - 👾 PRODUCT HUNT NOW (updated at June 2022) 👾
 
-- ⚡ Currently writing an IA to boost up your startup (product hunt calling...).
+- ⚡ Currently writing some courses, stay tunned.
 
 - 🚀 Building 1 new app for secrets management. [Vaultik project](https://github.com/tomiok/vaultik)
 
