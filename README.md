@@ -2,7 +2,7 @@
 
 - 👾 PRODUCT HUNT NOW (updated at January 2023) 👾
 
-- ⚡ Currently writing some courses, stay tunned.
+- ⚡ Currently writing at https://dev.to/tomaslingotti.
 
 - 🚀 Building 1 new app for secrets management. [Vaultik project](https://github.com/tomiok/vaultik)
 
