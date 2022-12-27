@@ -1,6 +1,6 @@
 ### Hi there 👋 my name is Tomas and I am from Argentina, happy to see you here.
 
-- 👾 PRODUCT HUNT NOW (updated at June 2022) 👾
+- 👾 PRODUCT HUNT NOW (updated at January 2023) 👾
 
 - ⚡ Currently writing some courses, stay tunned.
 
