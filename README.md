@@ -1,6 +1,6 @@
 ### Hi there 👋 my name is Tomas and I am from Argentina, happy to see you here.
 
-- 👾 PRODUCT HUNT NOW (updated at April 2023) 👾
+- 👾 PRODUCT HUNT NOW (updated at June 2023) 👾
 
 - ⚡ Currently writing at https://dev.to/tomaslingotti and https://gophers-latam.github.io/posts/.
 
