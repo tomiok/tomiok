@@ -6,6 +6,8 @@
 
 - 🚀 Building 1 new app for secrets management. [Vaultik project](https://github.com/tomiok/vaultik)
 
+- 🚀 Building 1 new library for web servers. [WebH](https://github.com/tomiok/webh) 
+
 - 💯 In this repo you can find good quality repos, feel free to contact me if anything caught your attention.
 
 - 🔭 I’m currently working mostly with Go and running a (gopher) [youtube channel](https://youtube.com/tomaslingotti), I am 
