@@ -4,9 +4,9 @@
 
 - ⚡ Currently writing at https://dev.to/tomaslingotti and https://gophers-latam.github.io/posts/.
 
-- - 🚀 Building an app to centralize news with RSS and scrapping. [Web6AM](https://web6am.com/)  
+- 📰  Building an app to centralize news with RSS and scrapping. [Web6AM](https://web6am.com/)  
 
-- 🚀 Building 1 new app for secrets management. [Vaultik project](https://github.com/tomiok/vaultik)
+- 🔐  Building 1 new app for secrets management. [Vaultik project](https://github.com/tomiok/vaultik)
 
 - 🚀 Building 1 new library for web servers. [WebH](https://github.com/tomiok/webh) 
 
