@@ -4,11 +4,11 @@
 
 - ⚡ Writing at https://dev.to/tomaslingotti and https://gophers-latam.github.io/posts/.
 
-- 📰  Building an app to centralize news with RSS and scrapping (looking for a cool name) 
+- 📰  Building an app to centralize news with RSS and scrapping (looking for a cool name).
 
-- 🔐  Building 1 new app for secrets management. [Vaultik project](https://github.com/tomiok/vaultik)
+- 🔐  Building 1 new app for secrets management. [Vaultik project](https://github.com/tomiok/vaultik).
 
-- 🚀 Building 1 new library for web servers. [WebH](https://github.com/tomiok/webh) 
+- 🚀 Building 1 new library for web servers. [WebH](https://github.com/tomiok/webh).
 
 - 💯 In this repo you can find good quality repos, feel free to contact me if anything caught your attention.
 
