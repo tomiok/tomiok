@@ -1,10 +1,10 @@
 ### Hi there 👋 my name is Tomas and I am from Argentina, happy to see you here.
 
-- 👾 PRODUCT HUNT NOW (updated at July 2023) 👾
+- 👾 PRODUCT HUNT NOW (updated at August 2024) 👾
 
 - ⚡ Writing at https://dev.to/tomaslingotti and https://gophers-latam.github.io/posts/.
 
-- 📰  Building an app to centralize news with RSS and scrapping. [Web6AM](https://web6am.com/)  
+- 📰  Building an app to centralize news with RSS and scrapping (looking for a cool name) 
 
 - 🔐  Building 1 new app for secrets management. [Vaultik project](https://github.com/tomiok/vaultik)
 
