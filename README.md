@@ -4,7 +4,7 @@
 
 - ⚡ Writing at https://dev.to/tomaslingotti and https://gophers-latam.github.io/posts/.
 
-- 📰  Building an app to centralize [news](https://github.com/tomiok/news) with RSS and scrapping (looking for a cool name).
+- 📰  Building an app to centralize [news](https://github.com/tomiok/news) with RSS and scrapping "Inforia".
 
 - 🔐  Building 1 new app for secrets management. [Vaultik project](https://github.com/tomiok/vaultik).
 
