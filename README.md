@@ -2,6 +2,8 @@
 
 - 👾 PRODUCT HUNT NOW (updated at August 2025) 👾
 
+- 💌​  Building queuety a at-least-one delivery platform as a message broker. 
+
 - ⚡ Writing at https://dev.to/tomaslingotti and https://gophers-latam.github.io/posts/.
 
 - 📰  Building an app to centralize [news](https://github.com/tomiok/news) with RSS and scrapping "Inforia".
