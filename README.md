@@ -1,8 +1,8 @@
 ### Hi there 👋 my name is Tomas and I am from Argentina, happy to see you here.
 
-- 👾 PRODUCT HUNT NOW (updated at August 2025) 👾
+- 👾 PRODUCT HUNT NOW (updated at September 2025) 👾
 
-- 💌​  Building queuety a at-least-one delivery platform as a message broker. 
+- 💌​  Building queuety a at-least-one delivery platform as a message broker [Queuety](https://github.com/tomiok/news). 
 
 - ⚡ Writing at https://dev.to/tomaslingotti and https://gophers-latam.github.io/posts/.
 
