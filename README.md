@@ -1,6 +1,6 @@
 ### Hi there 👋 my name is Tomas and I am from Argentina, happy to see you here.
 
-- 👾 PRODUCT HUNT NOW (updated at September 2025) 👾
+- 👾 PRODUCT HUNT NOW (updated at September 2026) 👾
 
 - 💌​  Building queuety a at-least-one delivery platform as a message broker [Queuety](https://github.com/tomiok/news). 
 
